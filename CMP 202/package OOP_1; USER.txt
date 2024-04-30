@@ -10,7 +10,7 @@ public class User {
     }
 
     String Register(){
-        if(name.equals("Ayomide") || password.equals("12345")){
+        if(name.equals("obianuju") || password.equals("123456")){
             return "can't be Empty";
         }
         else {
