@@ -1,3 +1,0 @@
-# CMP-202
-INHERITANCE
-
