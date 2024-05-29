@@ -10,11 +10,12 @@ The process of hiding a piece of data.
 2. To control what data other programmers have access to and what data they can edit.
 
 To access a private variable you must create a method.
+<br>
      getName(){
          return name
       }
 
-newperson(); is used to create an instance. constructor is the first method that gets called. must have the same name as the class.
+Newperson(); is used to create an instance. constructor is the first method that gets called. must have the same name as the class.
 default constructor has no argument
 
 
